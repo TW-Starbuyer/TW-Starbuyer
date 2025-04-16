@@ -14,7 +14,31 @@
 
 ###
 
-<p align="left">I have interdisciplinary interests in Real-time Rendering (Raytracing, Computational Geometry, High-performance Graphics), Computer Vision (Gaussian Splatting), and AI/ML (LLMs/SLMs, Neural Networks). I've served as a research assistant for multiple projects at the college. I was a Summer Undergraduate Research Fellow at the college last summer (2024), leading the research and development of the EDUHints SLM hint generation system. For this work I won the first place prize at CCSCNW's 2024 student research poster competition, and recently authored my first conference paper (accepted).<br><br>🔭 Current research projects:<br>-Developing a 3D Gaussian Splatting Renderer with OpenCV.<br>-Continuing the development of the EDUHints system.<br><br>🌱 Currently learning about:<br>- Computer Vision, multiple view geometry, photogrammetry, gaussian splatting. <br>- Rendering techniques with the Unity game engine.<br><br>💼 Seeking software development internship opportunities in the field of Computer Graphics / AI for Summer 2025 and/or Fall-Winter 2025.</p>
+<p align="left">I have interdisciplinary interests in Real-time Rendering (Raytracing, Computational Geometry, High-performance Graphics), Computer Vision (Gaussian Splatting), and AI/ML (LLMs/SLMs, Neural Networks). I've served as a research assistant for multiple projects at the college. I was a Summer Undergraduate Research Fellow at the college last summer (2024), leading the research and development of the EDUHints SLM hint generation system. For this work I won the first place prize at CCSCNW's 2024 student research poster competition, and recently authored my first conference paper (accepted).</p>
+
+###
+
+<h3 align="left">🔭 Current research projects..</h3>
+
+###
+
+<p align="left">• Developing a 3D Gaussian Splatting Renderer with OpenCV.<br>• Continuing the development of the EDUHints system.</p>
+
+###
+
+<h3 align="left">🌱 Currently learning about..</h3>
+
+###
+
+<p align="left">• Computer Vision, multiple view geometry, photogrammetry, gaussian splatting. <br>• Rendering techniques with the Unity game engine.</p>
+
+###
+
+<h3 align="left">💼 Currently seeking..</h3>
+
+###
+
+<p align="left">Software development internship opportunities for Summer 2025 and/or Fall-Winter 2025.</p>
 
 ###
 
