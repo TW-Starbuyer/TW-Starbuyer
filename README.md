@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">• Computer Vision, multiple view geometry, photogrammetry, gaussian splatting. <br>• Rendering techniques with the Unity game engine.</p>
+<p align="left">• Computer Vision, Multiple View Geometry, Photogrammetry, Gaussian Splatting. <br>• Rendering techniques with the Unity Game Engine.</p>
 
 ###
 
