@@ -1,4 +1,4 @@
-<h3 align="center">Aspiring graphics programmer studying <br>CS @ The Evergreen State College in Olympia, WA 🌲</h3>
+<h3 align="center">CS Student @ The Evergreen State College in Olympia, WA 🌲</h3>
 
 ###
 
