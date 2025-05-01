@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I have interdisciplinary interests in Real-time Rendering (Raytracing, Computational Geometry, High-performance Graphics), Computer Vision (Gaussian Splatting), and AI/ML (LLMs/SLMs, Neural Networks). I've served as a research assistant for multiple projects at the college. I was a Summer Undergraduate Research Fellow at the college last summer (2024), leading the research and development of the EDUHints SLM hint generation system. For this work I won the first place prize at CCSCNW's 2024 student research poster competition, and recently authored my first conference paper (accepted).</p>
+<p align="left">I have interdisciplinary interests in human-centered computing, game development, computer graphics (raytracing, computational geometry/topology, high-performance graphics), and AI/ML (LLMs/SLMs, neural networks). I've served as a research assistant for multiple projects at the college. I was a Summer Undergraduate Research Fellow at the college last summer (2024), leading the research and development of the EDUHints small language model hint generation system. For this work I won the first place prize at CCSCNW's 2024 student research poster competition, and recently authored my first conference paper (accepted).</p>
 
 ###
 
