@@ -1,4 +1,4 @@
-<h3 align="center">CS student, undergraduate researcher and former teaching assistant @ The Evergreen State College 🌲</h3>
+<h3 align="center">CS student, undergraduate research assistant, and former teaching assistant @ The Evergreen State College 🌲</h3>
 
 ###
 
