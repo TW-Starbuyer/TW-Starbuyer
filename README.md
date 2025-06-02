@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">• Developing a 3D Gaussian Splatting Renderer with OpenCV.<br>• Continuing the development of the EDUHints system.</p>
+<p align="left">• Developing a 3D Gaussian Splatting Renderer. <br>• Continuing the development of the EDUHints system.</p>
 
 ###
 
